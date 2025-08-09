@@ -17,7 +17,7 @@ import PyPDF2
 import io
 import re
 import streamlit as st
-from google.colab import files
+
 
 st.title("AI Resume Scanner")
 st.write("Upload your resume to get a score and suggestions.")
