@@ -7,11 +7,11 @@ Original file is located at
     https://colab.research.google.com/drive/1PZHv114PEbfwxPSEaxeX_lNF43t3t7my
 """
 
-!pip install PyPDF2
+pip install PyPDF2
 
 """To upload unknown file"""
 
-!pip install streamlit
+pip install streamlit
 
 import PyPDF2
 import io
