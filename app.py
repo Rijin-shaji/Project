@@ -19,7 +19,7 @@ import re
 import streamlit as st
 
 
-st.title("AI Resume Scanner")
+st.title("AI Resume Scanner for IT job")
 st.write("Upload your resume to get a score and suggestions.")
 
 uploaded_file = st.file_uploader("Choose your resume (PDF)", type=["pdf"])
